@@ -1,0 +1,59 @@
+.otherbody {
+    background-image: url('/assets/thurman meat.jpeg');
+    background-size:cover;
+    background-repeat:repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2e207e;
+}
+.othercommon {
+    background-color:rgba(240, 255, 255, 0.363);
+    border: 2px solid #007157;
+    position: absolute;
+    padding: 5px;
+    text-align: center;
+}
+.otherheader {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 225px;
+    z-index: 100;
+}
+.otherleft {
+    top: 247px;
+    left: 5px;
+    width: 225px;
+    bottom: 74px;
+    z-index: 98;
+    padding-right: 5px;
+}
+.othermain {
+    top: 247px;
+    left: 247px;
+    right: 247px;
+    bottom: 74px;
+    z-index: 99;
+}
+.otherright {
+    top: 247px;
+    right: 5px;
+    width: 225px;
+    bottom: 74px;
+    padding-left: 5px;
+    z-index: 97;
+}
+.otherfooter {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    position: fixed;
+    text-align: center;
+    font-size: 15px;
+    /* padding: 15px; */
+    z-index: 96;
+}
+.othersubheader {
+    float: right;
+    padding: 5px;
+}
